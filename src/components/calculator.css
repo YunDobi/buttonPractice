@@ -1,0 +1,30 @@
+.InputContainer {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+span {
+  display: flex;
+  width: 150px;
+  height: 2.75rem;
+  margin: 15px;
+  justify-content: center;
+  color: #002533;
+  background-color: #f5feff;
+  border: 1px solid #89d6ec;
+  border-radius: 0.3125rem;
+  padding: 0.0625rem;
+  font-size: 1.125rem;
+  align-items: center;
+}
+
+h1 {
+  color: #004f78;
+  font-size: 1.375rem;
+}
+
+.select {
+  background-color: #d8f5fd;
+  border: 2px solid #1ba7da;
+  padding: 0;
+}
